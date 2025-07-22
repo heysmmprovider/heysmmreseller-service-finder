@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "SMM Service Finder",
+  "version": "1.0",
+  "description": "Quickly find and copy SMM service IDs",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon128.png",
+      "48": "icon128.png",
+      "128": "icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icon128.png",
+    "48": "icon128.png",
+    "128": "icon128.png"
+  }
+}
